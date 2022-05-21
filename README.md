@@ -1,0 +1,6 @@
+- 👋 Olá! Meu nome é Romulo! --> @RomuloOli
+-  Realizada a venda da minha hamburgueria, The Dunk Burgers, para focar nesse novo universo! 
+-  Estou interessado em entrar no mundo da programação, estudando para conseguir um emprego na área!
+-  Estou estudando na Alura: toda a formação possivel de Front-End sobre: html, css, javascript entre outros; 
+-                                fazendo o curso de ciência da computação CS50 da Harvard pela Fundação Estudar.
+-  Pode achar meu perfil do LinkIn pelo link: https://www.linkedin.com/in/romulo-sim%C3%B5es-8b80aa25/ (atualizando a página ainda).
